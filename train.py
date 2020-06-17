@@ -18,7 +18,8 @@ from sklearn.model_selection import train_test_split
 print("Enter data path")
 path = input()
 
-
+os.mkdir('Predictions')
+os.mkdir('Models')
 # In[1]:
 
 
