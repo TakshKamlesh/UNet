@@ -31,7 +31,9 @@ python3 predict.py
 #### 7.) The following prompt will show
 ```
 Enter image path
+"Enter the path to your test image"
+Enter model name
+"Enter the name of the model you trained , which is stored in Models directory"
 ```
-#### 8.) Here, you will enter the path to your test image
-#### 9.) The predicted mask will be shown in new window and also will be saved in the "Predictions" folder
+#### 8.) The predicted mask will be shown in new window and also will be saved in the "Predictions" folder
 
